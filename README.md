@@ -1,13 +1,6 @@
 ﻿# 🚀 CodeLens AI
 
-> **Next-Generation Interactive Code Execution Visualizer, AST Semantic Explainer & Multilingual Debugger**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/dinesh2505034/codelens-ai.git)
-[![Node Version](https://img.shields.io/badge/Node-v18%2B-green.svg)](https://nodejs.org)
-[![Python Version](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)](https://www.python.org)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
-
----
 
 ## 📖 Overview
 **CodeLens AI** is a developer and computer science education platform that transforms static source code into an interactive, line-by-line execution visualizer. It monitors variable memory allocations, intercepts interactive standard input (`stdin`), executes code natively via Python's `sys.settrace`, and provides plain-English pedagogical explanations alongside a 7-point dynamic error diagnostic engine.
@@ -76,14 +69,4 @@ node server/index.js
 ```
 Open **[http://localhost:3001](http://localhost:3001)** in your browser.
 
----
 
-## 📄 PDF Documentation
-A PDF version of the complete system documentation is available in the repository root:
-* [CodeLens_AI_Documentation.pdf](./CodeLens_AI_Documentation.pdf)
-
----
-
-## 👨‍💻 Author & License
-* **Author**: Dinesh .P
-* **License**: MIT
