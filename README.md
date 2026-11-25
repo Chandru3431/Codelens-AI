@@ -5,8 +5,8 @@
 ## 📖 Overview
 **CodeLens AI** is a developer and computer science education platform that transforms static source code into an interactive, line-by-line execution visualizer. It monitors variable memory allocations, intercepts interactive standard input (`stdin`), executes code natively via Python's `sys.settrace`, and provides plain-English pedagogical explanations alongside a 7-point dynamic error diagnostic engine.
 
-🌐 Live Demo: <https://codelens-ai-sefe.onrender.com/>
-🎥 Demo Video: <https://drive.google.com/file/d/1Sv_hG_t0k1O5pZ_B4y3sASngX9oqb7O3/view?usp=sharing>
+##🌐 Live Demo: <https://codelens-ai-sefe.onrender.com/>
+##🎥 Demo Video: <https://drive.google.com/file/d/1Sv_hG_t0k1O5pZ_B4y3sASngX9oqb7O3/view?usp=sharing>
 
 ## ✨ Key Features
 
