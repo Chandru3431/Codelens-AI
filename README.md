@@ -57,7 +57,7 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/dinesh2505034/codelens-ai.git
+git clone https://github.com/Chandru3431/codelens-ai.git
 cd codelens-ai
 npm install
 ```
